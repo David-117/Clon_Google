@@ -1,2 +1,4 @@
-# Clon_Google
-Usando las herramientas HTML , CSS así como flex y grid se maqueto la vista principal de Google
+#             Clon Google
+
+              Usando las herramientas html y CSS5 se maqueto la pantalla principal de busqueda de Google 
+                      
